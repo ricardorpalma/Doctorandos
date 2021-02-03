@@ -1,0 +1,287 @@
+---
+title: "Barbara Villanueva"
+author: Di^3 Doctorado en Ingeniería Industrial
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Bárbara M. Villanueva](BMV.png){width=80%}
+
+
+Doctorado en Ingeniería Industrial Di3 {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> lacuentadebarbara@hotmail.com 
+
+
+- <li><a href="https://orcid.org/0000-0002-8786-1764"><i class="fas fa-user-graduate"></i>   orcid 0000-0002-8786-1764 </a></li>
+
+- <li><a href="https://scholar.google.com/citations?hl=es&user=n-m6sJYAAAAJ/"><i class="fab fa-google"></i> Scholar Google</a></li>
+
+- <i class="fa fa-phone"></i> +54 9 3876 84-2437
+- Para mayor información contácteme por correo electrónico
+
+
+Competencias {#skills}
+--------------------------------------------------------------------------------
+
+* Sustainable Proccess Optimization
+* Modelo de Triple Hélice
+* Desarrollo regional
+
+
+
+
+
+
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+Bárvara M. Villanueva {#title}
+--------------------------------------------------------------------------------
+
+### Actual candidato al Doctorado en Ingeniería Industrial
+
+Tenga en cuenta que este es un currículum * no-real *, y realmente estamos buscando generar para la acreditación del Doctorado un método de seguimiento de los postulantes.
+Hice este currículum porque Di3 me preguntó si quisiera probar el paquete ** pagedown ** con un CV . Si usted está interesado en colaborar con el doctorado, no dude en ponerse en contacto con nosotros.
+
+
+Director de Tesis {data-icon=address-book data-concise=true}
+--------------------------------------------------------------------------------
+
+### Dr. Juan Carlos Michalus
+
+Universidad Nacional de Misiones
+
+Oberá - Misiones - Argentina
+
+Formación de Grado {data-icon=chalkboard-teacher data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad Nacional de Salta
+
+Facultad de Ingeniería
+
+Ingeniera Química
+
+1991
+
+Tesis : Bio-Reactores catalíticos de fases sólidas líquidas y gaseosas
+
+### University of Chinese Academy of Sciences
+
+Laboratory Leader
+
+Beijing, China
+
+2001
+
+Research Project : A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in sub-tropical trees in deserts
+
+
+Formación de Posgrado {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad Nacional de La Rioja:
+
+Especialista en Gestión de la Organizaciones Productivas
+
+La Rioja, AR
+
+2012
+
+Experiencia en Investigación {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Docente Investigador 
+
+Universidad Nacional de Salta - U.N. La Rioja
+
+
+
+1987 - 2021
+
+- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
+- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+
+### Laboratorio de Bioprocesos
+
+Procesos productivos de productos orgánicos
+
+Salta - Argentina
+
+2015 - 2016
+
+- Investigador vinculado a la inclusión de productos regionales a las cadenas de valor de clase mundial 
+
+### Estancias de Investigación
+
+University of Alabama at Birmingham
+
+AL, USA
+
+2016 - 2018
+
+- Investigated the role of mitochondria in development of cancer.
+- Investigated the evolution of genome architecture and its role in important evolutionary events.
+- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+  
+
+
+Módulos Aprobados del Di3 {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist, intern
+
+SupStat Inc.
+
+Beijing, China
+
+2014
+
+::: concise
+- Taught R language to beginners. 
+- Wrote Shiny app demos.
+- Converted statistical tutorials from SPSS to R language.
+:::
+
+### Bioinformatician
+
+My Health Gene Technology Co., Ltd.
+
+Beijing, China
+
+2015 - 2016
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+
+Experiencia Docente {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and Data Mining Training Courses at SupStat Inc.
+
+Curitiba, Brasil
+
+2014
+
+### Computational Biology and Bioinformatics.
+
+Teaching assistant of GBS CB2-201 courses at UAB
+
+AL, USA
+
+2016 - 2017
+
+
+Publicaciones con referato {data-icon=file}
+--------------------------------------------------------------------------------
+
+
+### Diseño de Sistemas de Procesos: 
+
+
+Un Enfoque Integrador
+OJ Domínguez, JE Finetti, RL Michel, BM Villanueva
+Información tecnológica 18 (5), 11-20	3	
+
+
+Conicet UBA
+
+2007 
+
+### PROCESS SYSTEM DESIGN: 
+
+
+AN INTEGRATED APPROACH
+OJ DOMÍNGUEZ, JE FINETTI, RL MICHEL, BM VILLANUEVA
+INFORMACION TECNOLOGICA 18 (5), 11-20		
+
+37 JAIIO Mar del Plata -AR
+
+2008 
+
+### A new approach for the determination of 
+deltat sub min in uncertain conditions in heat exchanger networks.
+
+JE Finetti, OJ Dominguez, RL Michel, BM Villanueva
+CIT Informacion Tecnologica 13 (4), 121-124
+
+Wellington - AU
+
+2014
+
+
+### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+
+Poster for 2013 International Conference of Genomics
+
+Qingdao, Chile
+
+2014
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+
+
+
+
+Ref. Bibliográficas de la Tesis {data-icon=cloud-download-alt}
+------------------------------------------------------------------------------
+
+
+* Angira, R. y Babu, B.V.; Optimization of process synthesis and design problems: A modified differential evolution approach, Chemical Engineering Science, 61(14) (2006).        
+
+*Balasubramanian, J. e I.E. Grossmann; Scheduling optimization under uncertainty-An alternative approach, Computers & Chemical Engineering, 27, 469-490 (2003).      
+
+*Bansal, V. y otros cuatro autores; New algorithms for mixed-integer dynamic optimization, Computers & Chemical Engineering, 27(5) (2003).       
+
+* Bernardo, F.P., E.N. Pistikopoulos, y P.M. Saraiva; Robustness Criteria in Process Design Optimization under Uncertainty, Computers and Chemical Engineering, 23, 459-462 (1999). 
+
+* Bernardo, F.P., E.N. Pistikopoulos y P.M. Saraiva; Quality costs and robustness criteria in chemical process design optimization, Computers and Chemical Engineering, 23(1) (2001).     
+
+* Biegler, L.T., I.E. Grossmann y A.W. Westerberg, Systematic Methods of Chemical Process Design, Prentice Hall (1997).        [ Links ]
+
+* Douglas, J. M.; Conceptual Design of Chemical Processes, McGraw-Hill Pub. Coc., N.Y. (1988).        [ Links ]
+
+* Finetti, J. E., B.M Villanueva, R.L. Michel y O.J. Domínguez; An Approach to Robust Design – Part II. American Institute of Chemical Engineers, Annual Meeting 1999, Dallas (USA) Nov. (1999).        [ Links ]
+
+
+* Georghiou, L.G. y J.S. Metcalfe; Evaluation of the Impact of European Community Research Programmes Upon Industrial Competitiveness, R&D Management, 23(2), Basil Blackwell (1993).        [ Links ]
+* Georgiadis, M. C. y E.N. Pistikopoulos; Flexibility and Robustness Issues in Process Optimization under Uncertainty, Centre Report Series A98.15, Centre for Process System Engineering, Imperial College of Science Technology and Medicine, London (1998).        [ Links ]
+
+* Grossmann, I. E. y D.A. Straub; Recent Developments in the Evaluation and Optimization of Flexible Chemical Processes, en Luis Puigjaner y Antonio Espuña (ed.), Computer Oriented Process Engineering, Elsevier (1991).        [ Links ]
+
+* Grossmann, I.E. y A.W. Westerberg; Research Challenges in Process Systems Engineering, AIChE J., 46(9), 1700-1703 (2000).        [ Links ]
+Harsanyi, J.C.; Normative Validity and Meaning of Von Neumann-Morgenstern Utilities, International 
+
+* Conference on Game Theory, Florence, Italy, June 25-27 (1991).        [ Links ]
